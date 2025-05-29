@@ -24,7 +24,7 @@
 ---
 
 ### 🔍 About Me
-- 🎓 PhD student in Mathematics at *CINVESTAV, working on **Knot Theory, **Graph Neural Networks, and **Reinforcement Learning*.
+- 🎓 PhD student in Mathematics at CINVESTAV, working on Knot Theory, Graph Neural Networks, and Reinforcement Learning.
 - 💡 Passionate about blending *pure math* with *machine learning* for scientific discovery and theoretical insight.
 - 🎤 Regular contributor and speaker at international conferences (ICERM, IMSA, FinAI Summit).
 - 📚 Explorer of abstract algebra, topology, and the limits of machine intelligence.
