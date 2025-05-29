@@ -43,7 +43,7 @@
 ### 📌 Featured Projects
 
 - 🔗 **[KnotNet](https://github.com/EdisonVazquezG/KnotNet):** Deep learning models to predict HOMFLY polynomials using Alexander & Jones invariants.  
-- 🧠 *GNN Anomaly Detection:* Graph Autoencoders for identifying outliers in electronic component markets.  
+- 🧠 *[GNN Anomaly Detection](https://github.com/EdisonVazquezG/Graph_neural_networks):* Graph Autoencoders for identifying outliers in electronic component markets.  
 - 🧩 *Reinforcement Learning for Knot Simplification:* PPO-based agent applying Reidemeister moves for diagram reduction.  
 
 ---
