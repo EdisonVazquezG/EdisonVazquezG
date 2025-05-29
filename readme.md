@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/WxJLwDBAXDsW1fqZ3v/giphy.gif" width="400"/>
 </div>
 <div id="badges"  align="center">
-  <a href="www.linkedin.com/in/edison-vazquez-gordillo">
+  <a href="[www.linkedin.com/in/edison-vazquez-gordillo](https://www.linkedin.com/in/edison-vazquez-gordillo/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/EddsJessie">
