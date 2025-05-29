@@ -35,14 +35,14 @@
   
 <div align="left">
   
-I am a data science leader <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Mexico. 
+Computer scientist and aspiring mathematician specializing in the intersection of AI and pure mathematics
 
-- :telescope: I’m working as a Data Science Leader trying to solve complex problems with ML/DL algorithms.
+Research Interests:
 
-- :seedling: I have experience working with NLP algorithms and implementations of machine learning models in the industry.
-
-- :zap: In my free time, I solve computing problems on Python and read tech articles.
-
+AI for Mathematics
+Geometric Deep Learning (Graph Neural Networks)
+Autoformalization in Mathematics
+Reinforcement Learning Theory
  </div>
  
 ---
